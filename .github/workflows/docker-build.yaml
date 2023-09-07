@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: example/github-actions-test:latest
+          tags: matsuyukilib/github-actions-test:latest
